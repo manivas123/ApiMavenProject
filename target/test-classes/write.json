@@ -1,0 +1,30 @@
+{
+	"page": 123,
+	"per_page": 321,
+	"total": 213,
+	"total_pages": 143,
+	"data": [
+		{
+			"id": 123,
+			"flightName": "maniflight",
+			"Country": "india",
+			"Destinations": "chennai"
+		},
+		{
+			"id": 234,
+			"flightName": "roja",
+			"Country": "india",
+			"Destinations": "karur"
+		},
+		{
+			"id": 456,
+			"flightName": "kiruba",
+			"Country": "indai",
+			"Destinations": "karur"
+		}
+	],
+	"support": {
+		"url": "https://www.omrbranch.com/",
+		"text": "mani"
+	}
+}
